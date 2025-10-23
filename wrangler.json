@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "avaliacoesfornecedores",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "41dea46f-6382-4d6d-8cd7-abb8a02ac5e0",
+      "database_name": "avaliacoes"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
